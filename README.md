@@ -1,4 +1,5 @@
-# application to pull datas of github and put on mongodb atlas.
+# the goal project 
+* application to pull datas of github and put on mongodb atlas.
 
 # require
 * express
